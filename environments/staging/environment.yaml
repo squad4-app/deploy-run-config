@@ -18,10 +18,10 @@ app:
   #   type: war
 
   maven:
-    groupId: 
-    artifactId: 
-    version: 
-    type: 
+    groupId: ""
+    artifactId: ""
+    version: ""
+    type: ""
 
 
 
