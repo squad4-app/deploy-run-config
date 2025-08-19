@@ -21,7 +21,7 @@ app:
     groupId: ""
     artifactId: ""
     version: ""
-    type: ""
+    type: war
 
 
 
